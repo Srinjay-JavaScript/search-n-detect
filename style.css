@@ -1,0 +1,65 @@
+.heading {
+  background: rgba(255, 255, 255, 0.7);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  width: auto;
+  text-align: center;
+  height: auto;
+  padding: 1rem;
+  border-radius: 2rem;
+  border: black 3px solid;
+}
+body {
+  background: linear-gradient(90deg, #edc0bf 0, #c4caef 58%);
+  font-family: "Raleway", sans-serif;
+  padding: 1rem;
+  margin: 0;
+}
+.card {
+  width: 400px;
+  height: auto;
+  padding: 2rem;
+  border-radius: 1rem;
+  background: rgba(231, 105, 105, 0.7);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: black 3px solid;
+}
+.card-title {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
+.para {
+  border: black 3px solid;
+  padding: 5px;
+  border-radius: 15px;
+  background-color: beige;
+}
+.searchbox {
+  width: 400px;
+  height: auto;
+  padding: 2rem;
+  border-radius: 1rem;
+  background: rgba(95, 196, 236, 0.7);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: black 3px solid;
+}
+canvas {
+  margin-top: 75px;
+  margin-left: 100px;
+  border: black solid 3px;
+  border-radius: 25px;
+}
+
+.result {
+  width: 400px;
+  height: auto;
+  padding: 2rem;
+  border-radius: 1rem;
+  background: rgba(116, 236, 95, 0.7);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: black 3px solid;
+}
